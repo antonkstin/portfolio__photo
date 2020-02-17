@@ -1,15 +1,15 @@
-@import url(./__content/popup__content.css);
-@import url(./__close/popup__close.css);
-@import url(./__title/popup__title.css);
-@import url(./__form/popup__form.css);
-@import url(./__input/popup__input.css);
-@import url(./__button/popup__button.css);
-@import url(./_is-opened/popup_is-opened.css);
-@import url(./__edit-button/popup__edit-button.css);
-@import url(./__container/popup__container.css);
-@import url(./__image/popup__image.css);
-@import url(./__error-message/popup__error-message.css);
-@import url(./__input-field/popup__input-field.css);
+@import url(./content/popup__content.css);
+@import url(./close/popup__close.css);
+@import url(./title/popup__title.css);
+@import url(./form/popup__form.css);
+@import url(./input/popup__input.css);
+@import url(./button/popup__button.css);
+@import url(./is-opened/popup_is-opened.css);
+@import url(./edit-button/popup__edit-button.css);
+@import url(./container/popup__container.css);
+@import url(./image/popup__image.css);
+@import url(./error-message/popup__error-message.css);
+@import url(./input-field/popup__input-field.css);
 
 .popup {
   position: fixed;
