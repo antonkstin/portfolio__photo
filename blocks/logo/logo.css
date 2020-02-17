@@ -1,0 +1,12 @@
+.logo {
+  width: 148px;
+  color: #fff;
+  font-size: 40px;
+  position: relative;
+}
+
+.logo_super {
+  vertical-align: super;
+  font-size: 15px;
+  position: absolute;
+}
